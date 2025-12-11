@@ -5,9 +5,10 @@
 </div>    
 
 # Hai, Saya Muhammad Rizki Alfareza 👋
+**"Ketelitian pada Detail (Elegance in Execution). Menulis kode adalah seni Engineering."**
+![StarRail](StarRail.png)
 ## Mahasiswa Rekayasa Perangkat Lunak | Software Engineering
 ### Institut Teknologi Statistika & Bisnis Muhammadiyah Semarang 
-
 Selamat datang! Saya adalah mahasiswa yang fokus pada dasar-dasar pengembangan web dan implementasi algoritma, sebagai bagian dari perjalanan saya menjadi seorang Software Engineer yang Professional .
 
 </div>
