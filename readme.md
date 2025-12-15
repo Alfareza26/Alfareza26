@@ -5,7 +5,7 @@
 </div>    
 
 # Hai, Saya Muhammad Rizki Alfareza 👋
-**"Ketelitian pada Detail (Elegance in Execution). Menulis kode adalah seni Engineering."**
+**"Elegance in Execution. Menulis kode adalah seni seorang Engineer."**
 ![StarRail](StarRail.png)
 ## Mahasiswa Rekayasa Perangkat Lunak | Software Engineering
 ### Institut Teknologi Statistika & Bisnis Muhammadiyah Semarang 
