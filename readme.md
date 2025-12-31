@@ -29,29 +29,6 @@ Selamat datang! Saya adalah mahasiswa yang fokus pada dasar-dasar pengembangan w
 
 ---
 
-## 🏗️ Proyek
-
-### 1. My-Portfolio: Proyek *Landing Page* Pribadi
-
-> **Deskripsi:** Repositori ini berisi *landing page* pribadi dan portofolio statis yang berfungsi sebagai CV online. Proyek ini dibuat untuk memahami dasar-dasar **HTML5**, **CSS3**, dan **Bootstrap** untuk mencapai desain responsif.
-
-* **Tujuan Belajar:** Implementasi desain web yang *responsive*, penggunaan *framework* CSS (Bootstrap), dan dasar-dasar *web hosting* (GitHub Pages).
-* **Teknologi:** HTML, CSS, JavaScript, Bootstrap.
-* **Status:** Pengembangan
-* **Akses Proyek:**
-    * **Live Demo/Portofolio:** [Web PortFolio](https://alfareza26.github.io/My-Portfolio/#home)
-    * **Repositori:** [My-Portfolio](https://github.com/Alfareza26/My-Portfolio)
-
-### 2. Program Python Dasar: Latihan Mandiri
-
-> **Deskripsi:** Kumpulan *script* Python yang digunakan untuk latihan mandiri dan tugas kuliah. Fokus pada pemahaman dasar-dasar pemrograman, struktur data, dan implementasi algoritma sederhana.
-
-* **Tujuan Belajar:** Mengasah logika pemrograman, memahami syntax Python, dan pengenalan terhadap konsep Object-Oriented Programming dasar.
-* **Teknologi:** Python.
-* **Status:** Berlanjut
-* **Repositori:** [Progam Python Sedehana](https://github.com/Alfareza26/Program-Python-Sederhana)
-
----
 
 ## 🔗 Hubungi Saya
 
