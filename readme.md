@@ -34,7 +34,8 @@ Selamat datang! Saya adalah mahasiswa yang fokus pada dasar-dasar pengembangan w
 
 Saya senang berdiskusi tentang proyek atau teknologi yang sedang saya pelajari.
 
-* Email  [Google Mail](alffsenpai2667@gmail.com)
+* Email [Mail](alffsenpai2667@gmail.com)
+* WhatsApp [Chat](wa.me/62850147048272)
 
 <br>
 <div align="center">
