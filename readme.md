@@ -23,7 +23,7 @@ Selamat datang! Saya adalah mahasiswa yang fokus pada dasar-dasar pengembangan w
 | :--- | :--- |
 | **Web Dasar** | [![My Web Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) |
 | **Script & Logika** | [![My Languages](https://skillicons.dev/icons?i=python,vscode,jupyter)](https://skillicons.dev) |
-| **Versi Kontrol** | [![My Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) |
+| **Peralatan** | [![My Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) |
 
 </div>
 
